@@ -1,20 +1,19 @@
-
 {
     "timeline":
     {
-        "headline":"Sh*t People Say",
+        "headline":"UNHCR Timeline",
         "type":"default",
-		"text":"People say stuff",
-		"startDate":"2012,1,26",
+		"text":"UNHCR Support Refugees",
+		"startDate":"1946,15,12",
         "date": [
             {
-                "startDate":"2011,12,12",
-				"endDate":"2012,1,27",
+                "startDate":"1946,15,12",
+				"endDate":"1947,1,27",
                 "headline":"Vine",
-                "text":"<p>Vine Test</p>",
+                "text":"<p>The Constitution of the International Refugee Organisation, adopted by the United Nations General Assembly on December 15, 1946, specified the agency's field of operations. Controversially, this defined ''persons of German ethnic origin'' who had been expelled, or were to be expelled from their countries of birth into the postwar Germany, as individuals who would not be the concern of the Organization.. In 1947, the International Refugee Organization(IRO) was founded by the United Nations.</p>",
                 "asset":
                 {
-                    "media":"https://vine.co/v/b55LOA1dgJU",
+                    "media":"http://archives.govt.nz/gallery2/gallery/d/5241-2/p_1051.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -26,7 +25,7 @@
                 "text":"<p>In true political fashion, his character rattles off common jargon heard from people running for office.</p>",
                 "asset":
                 {
-                    "media":"http://youtu.be/u4XpeU9erbg",
+                    "media":"http://archives.govt.nz/gallery2/gallery/d/5241-2/p_1051.jpg",
                     "credit":"",
                     "caption":""
                 }
